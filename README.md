@@ -1,5 +1,5 @@
-# Mock-Slack-Canvas-Training-Tech-Healthcare-Finance-Solutions 
-This mock training was developed as a **practice enablement session **to showcase how I design, structure, and deliver impactful training for sales teams. The focus was on positioning **Slack Canvas** as a transformative solution for **finance teams in the tech and healthcare industries**, particularly around compliance, reporting, and risk management. (Review [deck]([url](https://github.com/camparham/Mock-Slack-Canvas-Training-Tech-Healthcare-Finance-Solutions/blob/main/README.md)))
+# Mock-Slack-Canvas-Training-Tech-Healthcare-Finance-Solutions (review [deck]([url](https://github.com/camparham/Mock-Slack-Canvas-Training-Tech-Healthcare-Finance-Solutions/blob/main/README.md)))
+This mock training was developed as a **practice enablement session** to showcase how I design, structure, and deliver impactful training for sales teams. The focus was on positioning **Slack Canvas** as a transformative solution for **finance teams in the tech and healthcare industries**, particularly around compliance, reporting, and risk management.
 
 ## Purpose
 The mock training served as a demonstration of my ability to:
